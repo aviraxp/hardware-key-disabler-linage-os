@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
+id=hardware-key-disabler-linage-os
+name=Hardware Key Disabler (LOS / CM)
+version=1.0.0
 versionCode=1
-author=topjohnwu
-description=A short description
-template=3
+author=Gong Jianwei
+description=Disable hardware key on Lineage OS or CyanogenMod devices.
+support=https://github.com/GongJianwei/magisk-hardware-key-disabler
