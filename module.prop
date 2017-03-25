@@ -1,6 +1,6 @@
 id=hardware-key-disabler-linage-os
-name=Hardware Key Disabler (LOS / CM)
-version=1.0.0
+name=Hardware Key Disabler (LOS)
+version=1.0
 versionCode=1
 author=Gong Jianwei
 description=Disable hardware key on Lineage OS or CyanogenMod devices.
