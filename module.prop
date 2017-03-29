@@ -5,3 +5,4 @@ versionCode=1
 author=Gong Jianwei
 description=Disable hardware key on Lineage OS or CyanogenMod devices.
 support=https://github.com/GongJianwei/magisk-hardware-key-disabler
+template=3
